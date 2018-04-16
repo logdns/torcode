@@ -1,5 +1,8 @@
 # torcode
-url:
+url:\
+
+http://bitcardsqucnyfv2.onion   预付卡
+
 http://xmh57jrzrnw6insl.onion/  搜索
 
 https://3g2upl4pq6kufc4m.onion/    搜索
